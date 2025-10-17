@@ -10,13 +10,13 @@ Bot or Human Detection: Differentiates between bots (search engine crawlers, aut
 2️⃣-
 Fingerprint Collection: Gathers lightweight fingerprints based on IP, User-Agent, ISP, country, and other heuristics.
 
-3-
+3️⃣-
 Heuristic Checks: Uses multiple techniques including User-Agent verification, IP/ISP/country lookups, reverse DNS checks, and honeypot fields.
 
-4-
+4️⃣-
 Database Logging: Stores fingerprints and visitor logs for analysis.
 
-5-
+5️⃣-
 Blacklist Support: Maintains IP/ISP/country blacklists to identify suspicious traffic.
 
 6-
