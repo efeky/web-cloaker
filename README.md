@@ -1,0 +1,2 @@
+⚠️ WARNING: This project is educational and testing purposes only.
+Do not deploy this project against third‑party sites or use it for deceptive, fraudulent, or illegal activities (e.g., ad fraud, phishing, search‑engine manipulation). Always obtain explicit permission from the site owner, follow applicable laws and platform terms of service, and handle any collected data in compliance with privacy regulations (GDPR, KVKK, etc.).
