@@ -9,3 +9,23 @@ Bot or Human Detection: Differentiates between bots (search engine crawlers, aut
 
 2️⃣-
 Fingerprint Collection: Gathers lightweight fingerprints based on IP, User-Agent, ISP, country, and other heuristics.
+
+3-
+Heuristic Checks: Uses multiple techniques including User-Agent verification, IP/ISP/country lookups, reverse DNS checks, and honeypot fields.
+
+4-
+Database Logging: Stores fingerprints and visitor logs for analysis.
+
+5-
+Blacklist Support: Maintains IP/ISP/country blacklists to identify suspicious traffic.
+
+6-
+Honeypot Mechanism: Detects unsophisticated bots by checking hidden form fields.
+
+7-
+Server-Side Fingerprinting: Generates hashes for fingerprint data to track visitors consistently.
+
+8-
+Educational and Modifiable: Clear PHP code that can be modified for testing or learning purposes.
+
+GPL-3.0 Licensed: Open source under GPL-3.0, suitable for educational use.
