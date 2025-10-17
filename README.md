@@ -6,3 +6,6 @@ Web‑Cloaker is an educational proof‑of‑concept that demonstrates web cloak
 
 1️⃣-
 Bot or Human Detection: Differentiates between bots (search engine crawlers, automated scanners) and human visitors.
+
+2️⃣-
+Fingerprint Collection: Gathers lightweight fingerprints based on IP, User-Agent, ISP, country, and other heuristics.
