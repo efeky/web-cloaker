@@ -19,13 +19,13 @@ Database Logging: Stores fingerprints and visitor logs for analysis.
 5️⃣-
 Blacklist Support: Maintains IP/ISP/country blacklists to identify suspicious traffic.
 
-6-
+6️⃣-
 Honeypot Mechanism: Detects unsophisticated bots by checking hidden form fields.
 
-7-
+7️⃣-
 Server-Side Fingerprinting: Generates hashes for fingerprint data to track visitors consistently.
 
-8-
+8️⃣-
 Educational and Modifiable: Clear PHP code that can be modified for testing or learning purposes.
 
 GPL-3.0 Licensed: Open source under GPL-3.0, suitable for educational use.
