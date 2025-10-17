@@ -28,4 +28,6 @@ Server-Side Fingerprinting: Generates hashes for fingerprint data to track visit
 8️⃣-
 Educational and Modifiable: Clear PHP code that can be modified for testing or learning purposes.
 
+This project serves as a foundational proof-of-concept and can be further developed to add more robust and powerful features, such as advanced bot detection algorithms, enhanced fingerprinting techniques, dynamic threat intelligence integration, improved privacy controls, and scalable logging and analytics systems. Educational Purposes only!
+
 GPL-3.0 Licensed: Open source under GPL-3.0, suitable for educational use.
